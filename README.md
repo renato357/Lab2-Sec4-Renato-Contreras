@@ -11,6 +11,7 @@ Este laboratorio está enfocado en el uso de herramientas de seguridad para real
 - `Laboratorio_2_Renato_Contreras.pdf`: Informe completo del Laboratorio 2, que incluye los resultados y análisis obtenidos a partir de las pruebas realizadas.
 - `docker-compose.yml`: Archivo de configuración para desplegar el entorno de pruebas utilizando Docker.
 - `html/`: Carpeta que contiene los archivos HTML generados a partir de las respuestas de los comandos **cURL** ejecutados durante las pruebas.
+- `john.txt`: Archivo txt con las contraseñas que se prueban para cada usuario.
 - `img-Burp/`: Carpeta que contiene capturas de pantalla de las pruebas realizadas con **Burp Suite**.
 - `img-cURL/`: Carpeta que contiene capturas de pantalla de las pruebas realizadas con **cURL**.
 - `img-Hydra/`: Carpeta que contiene capturas de pantalla de las pruebas realizadas con **Hydra**.
